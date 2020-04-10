@@ -1,0 +1,20 @@
+class Suit:
+    HEART = "heart"
+    DIAMOND = "diamond"
+    CLUB = "club"
+    SPADE = "spade"
+
+class Value:
+    TWO = "2"
+    THREE = "3"
+    FOUR = "4"
+    FIVE = "5"
+    SIX = "6"
+    SEVEN = "7"
+    EIGHT = "8"
+    NINE = "9"
+    TEN = "10"
+    JACK = "Jack"
+    QUEEN = "Queen"
+    King = "King"
+    Ace = "Ace"
